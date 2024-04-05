@@ -1,9 +1,6 @@
 # iphone15pro
 Using GSAP and three.js in React to build a iphone 15 pro model Web Application
 
-
-# iphone 15 pro Model Web  Application 
-
 ## Description
 This project is a web application that consists of various components including a navbar, hero section, highlights section, model section, feature section, how-it-works section, and a footer.
 
