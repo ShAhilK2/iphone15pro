@@ -1,8 +1,26 @@
-# React + Vite
+# iPhone 15 pro Clone Web Application
+## Description
+This project is a web application that consists of various components including a navbar, hero section, highlights section, model section, feature section, how-it-works section, and a footer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run `npm install` to install dependencies.
 
-Currently, two official plugins are available:
+## Usage
+- To start the development server, run `npm start`.
+- Open your web browser and navigate to `http://localhost:3000` to view the application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Components
+- **Navbar**: Displays navigation links.
+- **Hero**: Main section with introductory content.
+- **Highlights**: Section highlighting key features or points.
+- **Model**: Component for displaying a model or data.
+- **Feature**: Displays a specific feature of the application.
+- **HowItWorks**: Explains how the application works.
+- **Footer**: Footer section with relevant links and information.
+
+## Dependencies
+- `@sentry/react`: Error monitoring tool.
+- Other dependencies can be found in the `package.json` file.
+
